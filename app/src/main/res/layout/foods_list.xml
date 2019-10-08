@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:id="@+id/r1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            >
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardView"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                app:cardCornerRadius="10dp"
+                app:cardBackgroundColor="#F6F6F6"
+                app:cardMaxElevation="10dp"
+                >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="90dp"
+                        android:layout_marginTop="12dp"
+                        android:layout_marginRight="10dp"
+                        android:fontFamily="@font/segoeuibold"
+                        android:text="Rice with chicken"
+                        android:textColor="@color/colorBlack"
+                        android:textSize="15sp"
+                        />
+                    <TextView
+                        android:id="@+id/shortDesc"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/title"
+                        android:text="Made with love and care"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginLeft="90dp"
+                        android:fontFamily="@font/segoeui"
+                        android:textColor="@color/colorBlack"
+                        android:textSize="13sp"
+                        />
+                    <ImageView
+                        android:id="@+id/heart"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginRight="32dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginTop="16dp"
+                        android:src="@drawable/hearticon"
+                        />
+                    <TextView
+                        android:id="@+id/rating"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginTop="22dp"
+                        android:layout_marginRight="17dp"
+                        android:text="4.5"
+                        android:fontFamily="@font/segoeui"
+                        android:textColor="@color/colorBlack"
+                        android:textSize="9sp"
+                        />
+                </RelativeLayout>
+            </androidx.cardview.widget.CardView>
+
+
+        </RelativeLayout>
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_marginTop="-1dp"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="-8dp"
+            android:src="@drawable/riceandchicken"
+            />
+    </RelativeLayout>
+</LinearLayout>
