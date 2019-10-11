@@ -20,6 +20,10 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\7626048698c5117a2bdf82fbaa7e3142\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_heart_off.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\495aa6130a979b790dd13bb33f515a06\\res\\drawable\\heart_off.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_abc_control_background_material.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\7626048698c5117a2bdf82fbaa7e3142\\res\\drawable-v23\\abc_control_background_material.xml"
     },
@@ -36,12 +40,12 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\7626048698c5117a2bdf82fbaa7e3142\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\7626048698c5117a2bdf82fbaa7e3142\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
@@ -126,6 +130,10 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\7626048698c5117a2bdf82fbaa7e3142\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_orderback.png.flat",
+        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxhdpi\\orderback.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -228,6 +236,10 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\7626048698c5117a2bdf82fbaa7e3142\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thumb_off.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\495aa6130a979b790dd13bb33f515a06\\res\\drawable\\thumb_off.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\7626048698c5117a2bdf82fbaa7e3142\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
@@ -278,6 +290,10 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_seek_thumb.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\7626048698c5117a2bdf82fbaa7e3142\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_heart_on.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\495aa6130a979b790dd13bb33f515a06\\res\\drawable\\heart_on.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -380,6 +396,10 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\7626048698c5117a2bdf82fbaa7e3142\\res\\anim\\abc_slide_out_top.xml"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_like_layout.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\e1e78732ae489575c7deaae13f75b30e\\res\\layout\\like_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\7626048698c5117a2bdf82fbaa7e3142\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
     },
@@ -398,6 +418,10 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_grilledsteak.png.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxxhdpi\\grilledsteak.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_likeview.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\495aa6130a979b790dd13bb33f515a06\\res\\layout\\likeview.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_dark.xml.flat",
@@ -456,6 +480,10 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\7626048698c5117a2bdf82fbaa7e3142\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_star_off.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\495aa6130a979b790dd13bb33f515a06\\res\\drawable\\star_off.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8943dcad7b6c14f50ba66af7f4499473\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
     },
@@ -478,6 +506,10 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\7626048698c5117a2bdf82fbaa7e3142\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_orderback.png.flat",
+        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-mdpi\\orderback.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
@@ -712,12 +744,12 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8943dcad7b6c14f50ba66af7f4499473\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bt_uiborder.xml.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable\\bt_uiborder.xml"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_sushi.png.flat",
@@ -770,6 +802,10 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pizza.png.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-hdpi\\pizza.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_orderback.png.flat",
+        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-ldpi\\orderback.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -924,6 +960,10 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8943dcad7b6c14f50ba66af7f4499473\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_orderback.png.flat",
+        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxxhdpi\\orderback.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\7626048698c5117a2bdf82fbaa7e3142\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
@@ -968,6 +1008,10 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\7626048698c5117a2bdf82fbaa7e3142\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_orderback.png.flat",
+        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xhdpi\\orderback.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_text_material.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\7626048698c5117a2bdf82fbaa7e3142\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
@@ -1002,6 +1046,10 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\7626048698c5117a2bdf82fbaa7e3142\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_orderback.png.flat",
+        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-hdpi\\orderback.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -1212,6 +1260,10 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8943dcad7b6c14f50ba66af7f4499473\\res\\drawable\\notification_bg_low.xml"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thumb_on.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\495aa6130a979b790dd13bb33f515a06\\res\\drawable\\thumb_on.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\7626048698c5117a2bdf82fbaa7e3142\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
@@ -1342,6 +1394,10 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\7626048698c5117a2bdf82fbaa7e3142\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_star_rate_on.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\e1e78732ae489575c7deaae13f75b30e\\res\\drawable\\ic_star_rate_on.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_grilledsteak.png.flat",
@@ -1584,6 +1640,10 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\7626048698c5117a2bdf82fbaa7e3142\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_star_on.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\495aa6130a979b790dd13bb33f515a06\\res\\drawable\\star_on.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_sandwich.png.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxxhdpi\\sandwich.png"
     },
@@ -1622,6 +1682,10 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\7626048698c5117a2bdf82fbaa7e3142\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_star_rate_off.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\e1e78732ae489575c7deaae13f75b30e\\res\\drawable\\ic_star_rate_off.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_btn_colored_material.xml.flat",
@@ -1690,10 +1754,6 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\7626048698c5117a2bdf82fbaa7e3142\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_orderbackground.jpg.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable\\orderbackground.jpg"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ogi.png.flat",

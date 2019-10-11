@@ -51,15 +51,20 @@
                         android:textColor="@color/colorBlack"
                         android:textSize="13sp"
                         />
-                    <ImageView
-                        android:id="@+id/heart"
-                        android:layout_width="30dp"
-                        android:layout_height="30dp"
-                        android:layout_marginRight="32dp"
+
+                    <com.like.LikeButton
+                        app:like_drawable="@drawable/hearticon"
+                        app:unlike_drawable="@drawable/hearticonwhite"
+                        app:liked="false"
+                        app:icon_size="20dp"
+                        android:id="@+id/heart_button"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="20dp"
                         android:layout_alignParentRight="true"
-                        android:layout_marginTop="16dp"
-                        android:src="@drawable/hearticon"
+
                         />
+
                     <TextView
                         android:id="@+id/rating"
                         android:layout_width="wrap_content"
@@ -70,7 +75,7 @@
                         android:text="4.5"
                         android:fontFamily="@font/segoeui"
                         android:textColor="@color/colorBlack"
-                        android:textSize="9sp"
+                        android:textSize="11sp"
                         />
                 </RelativeLayout>
             </androidx.cardview.widget.CardView>
@@ -86,4 +91,5 @@
             android:src="@drawable/riceandchicken"
             />
     </RelativeLayout>
+
 </LinearLayout>

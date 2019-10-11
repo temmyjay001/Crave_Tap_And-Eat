@@ -7,7 +7,7 @@ public class Foods {
     private double rating;
     private int image,heart;
 
-    public Foods(int id, String name, String shortDesc, double rating, int image, int heart) {
+    public Foods(int id, String name, String shortDesc, double rating, int image) {
         this.id = id;
         this.name = name;
         this.shortDesc = shortDesc;

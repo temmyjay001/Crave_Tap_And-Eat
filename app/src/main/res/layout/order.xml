@@ -15,16 +15,11 @@
             android:layout_height="wrap_content">
 
 
-            <androidx.cardview.widget.CardView
-                android:id="@+id/cardView"
+            <ImageView
+                android:id="@+id/imageView"
                 android:layout_width="match_parent"
-                android:layout_height="375dp"
-                android:layout_marginTop="-130dp"
-                android:layout_marginLeft="-10dp"
-                android:layout_marginRight="-10dp"
-                app:cardBackgroundColor="@color/colorYellow"
-                app:cardCornerRadius="150dp"
-                app:cardElevation="6dp"/>
+                android:layout_height="wrap_content"
+                android:background="@drawable/orderback" />
 
         </RelativeLayout>
 
@@ -43,7 +38,6 @@
                 android:id="@+id/imageView3"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-
                 android:background="@drawable/barbecue" />
 
         </androidx.cardview.widget.CardView>

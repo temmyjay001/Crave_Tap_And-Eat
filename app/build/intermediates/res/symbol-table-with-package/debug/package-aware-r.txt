@@ -52,6 +52,7 @@ attr alertDialogTheme
 attr allowStacking
 attr alpha
 attr alphabeticModifiers
+attr anim_scale_factor
 attr arrowHeadLength
 attr arrowShaftLength
 attr autoCompleteTextViewStyle
@@ -91,6 +92,11 @@ attr cardViewStyle
 attr chainUseRtl
 attr checkboxStyle
 attr checkedTextViewStyle
+attr circle_active
+attr circle_endColor
+attr circle_end_color
+attr circle_startColor
+attr circle_start_color
 attr closeIcon
 attr closeItemLayout
 attr collapseContentDescription
@@ -134,6 +140,11 @@ attr divider
 attr dividerHorizontal
 attr dividerPadding
 attr dividerVertical
+attr dot_active
+attr dot_color_1
+attr dot_color_2
+attr dots_primary_color
+attr dots_secondary_color
 attr drawableSize
 attr drawerArrowStyle
 attr dropDownListViewStyle
@@ -170,11 +181,14 @@ attr homeLayout
 attr icon
 attr iconTint
 attr iconTintMode
+attr icon_size
+attr icon_type
 attr iconifiedByDefault
 attr imageButtonStyle
 attr indeterminateProgressStyle
 attr initialActivityCount
 attr isLightTheme
+attr is_enabled
 attr itemPadding
 attr keylines
 attr lastBaselineToBottomHeight
@@ -236,6 +250,9 @@ attr layout_goneMarginTop
 attr layout_insetEdge
 attr layout_keyline
 attr layout_optimizationLevel
+attr like_drawable
+attr like_icon
+attr liked
 attr lineHeight
 attr listChoiceBackgroundIndicator
 attr listDividerAlertDialog
@@ -349,6 +366,8 @@ attr track
 attr trackTint
 attr trackTintMode
 attr ttcIndex
+attr unlike_drawable
+attr unlike_icon
 attr viewInflaterClass
 attr voiceIcon
 attr windowActionBar
@@ -669,10 +688,14 @@ drawable abc_vector_test
 drawable barbecue
 drawable bt_uiborder
 drawable grilledsteak
+drawable heart_off
+drawable heart_on
 drawable hearticon
 drawable hearticonwhite
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_star_rate_off
+drawable ic_star_rate_on
 drawable karim
 drawable nav
 drawable notification_action_background
@@ -688,12 +711,16 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable ogi
-drawable orderbackground
+drawable orderback
 drawable path
 drawable pizza
 drawable riceandchicken
 drawable sandwich
+drawable star_off
+drawable star_on
 drawable sushi
+drawable thumb_off
+drawable thumb_on
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 font mmrtext
@@ -745,6 +772,8 @@ id center_vertical
 id chains
 id checkbox
 id chronometer
+id circle
+id circleView
 id clip_horizontal
 id clip_vertical
 id collapseActionView
@@ -757,6 +786,8 @@ id default_activity_button
 id dimensions
 id direct
 id disableHome
+id dotView
+id dots
 id edit_query
 id end
 id expand_activities_button
@@ -770,7 +801,7 @@ id greeting
 id greeting2
 id group_divider
 id groups
-id heart
+id heart_button
 id home
 id homeAsUp
 id icon
@@ -842,6 +873,7 @@ id src_atop
 id src_in
 id src_over
 id standard
+id starImg
 id start
 id submenuarrow
 id submit_area
@@ -901,6 +933,8 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout foods_list
 layout homepage
+layout like_layout
+layout likeview
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
@@ -1317,6 +1351,7 @@ styleable ActionMenuView
 styleable ActionMode background backgroundSplit closeItemLayout height subtitleTextStyle titleTextStyle
 styleable ActivityChooserView expandActivityOverflowButtonDrawable initialActivityCount
 styleable AlertDialog android_layout buttonIconDimen buttonPanelSideLayout listItemLayout listLayout multiChoiceItemLayout showTitle singleChoiceItemLayout
+styleable AndroidLikeButton circle_active circle_endColor circle_startColor dot_active dot_color_1 dot_color_2 like_icon liked unlike_icon
 styleable AnimatedStateListDrawableCompat android_dither android_visible android_variablePadding android_constantSize android_enterFadeDuration android_exitFadeDuration
 styleable AnimatedStateListDrawableItem android_id android_drawable
 styleable AnimatedStateListDrawableTransition android_drawable android_toId android_fromId android_reversible
@@ -1339,6 +1374,7 @@ styleable FontFamily fontProviderAuthority fontProviderCerts fontProviderFetchSt
 styleable FontFamilyFont android_font android_fontWeight android_fontStyle android_ttcIndex android_fontVariationSettings font fontStyle fontVariationSettings fontWeight ttcIndex
 styleable GradientColor android_startColor android_endColor android_type android_centerX android_centerY android_gradientRadius android_tileMode android_centerColor android_startX android_startY android_endX android_endY
 styleable GradientColorItem android_color android_offset
+styleable LikeButton anim_scale_factor circle_end_color circle_start_color dots_primary_color dots_secondary_color icon_size icon_type is_enabled like_drawable liked unlike_drawable
 styleable LinearConstraintLayout android_orientation
 styleable LinearLayoutCompat android_gravity android_orientation android_baselineAligned android_baselineAlignedChildIndex android_weightSum divider dividerPadding measureWithLargestChild showDividers
 styleable LinearLayoutCompat_Layout android_layout_gravity android_layout_width android_layout_height android_layout_weight

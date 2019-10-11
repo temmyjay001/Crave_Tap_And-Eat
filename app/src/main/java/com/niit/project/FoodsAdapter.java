@@ -8,6 +8,9 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.like.LikeButton;
+import com.like.OnLikeListener;
+
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
@@ -21,6 +24,7 @@ public class FoodsAdapter extends RecyclerView.Adapter<FoodsAdapter.FoodsViewHol
 
     private Context context;
     private List<Foods> foodsList;
+
 
     public FoodsAdapter(Context context, List<Foods> foodsList) {
         this.context = context;
@@ -45,7 +49,7 @@ public class FoodsAdapter extends RecyclerView.Adapter<FoodsAdapter.FoodsViewHol
         holder.textViewRating.setText(String.valueOf(foods.getRating()));
 
         holder.imageView.setImageDrawable(context.getResources().getDrawable(foods.getImage()));
-        holder.heart.setImageDrawable(context.getResources().getDrawable(foods.getHeart()));
+//        holder.heart.setImageDrawable(context.getResources().getDrawable(foods.getHeart()));
     }
 
     @Override
@@ -56,33 +60,36 @@ public class FoodsAdapter extends RecyclerView.Adapter<FoodsAdapter.FoodsViewHol
     class FoodsViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener{
 
         ImageView imageView;
-        ImageView heart;
+        private LikeButton likeButton;
         TextView textViewTitle, textViewDesc, textViewRating;
 
         public FoodsViewHolder(@NonNull View itemView) {
             super(itemView);
 
             itemView.setOnClickListener(this);
-            heart = itemView.findViewById(R.id.heart);
+            likeButton = itemView.findViewById(R.id.heart_button);
             imageView = itemView.findViewById(R.id.imageView);
             textViewTitle = itemView.findViewById(R.id.title);
             textViewDesc = itemView.findViewById(R.id.shortDesc);
             textViewRating = itemView.findViewById(R.id.rating);
 
-            heart.setOnClickListener(this);
+            likeButton.setOnLikeListener(new OnLikeListener() {
+                @Override
+                public void liked(LikeButton likeButton) {
+                    Toast.makeText(context,"I was Liked",Toast.LENGTH_SHORT).show();
+                }
+
+                @Override
+                public void unLiked(LikeButton likeButton) {
+                    Toast.makeText(context,"I was UnLiked",Toast.LENGTH_SHORT).show();
+                }
+            });
 
         }
 
         @Override
         public void onClick(View view) {
-            if(view == heart){
-                if(heart.getDrawable().equals(R.drawable.hearticon)){
-                    heart.setImageResource(R.drawable.hearticonwhite);
-                }else{
-                    heart.setImageResource(R.drawable.hearticon);
-                }
 
-            }
         }
     }
 }
