@@ -9,7 +9,6 @@ MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\VitaKing\.gradle\cache
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\1cc418b9996affc6dfb7c5099bd27275\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\f06a1ca5b12a7fbc0c8ca91b51501609\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a72a3ce51306b126369fca7a636fc5a9\AndroidManifest.xml:17:1-22:12
-MERGED from [com.jackandphantom.android:androidlikebutton:1.2.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\e1e78732ae489575c7deaae13f75b30e\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\901ec15673212b650c159e4774dc6e56\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\7ec5f5552090a502c666069271482eb0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\b2c7e09f5be93d9bbaa0fdcfc740902e\AndroidManifest.xml:17:1-22:12
@@ -116,8 +115,6 @@ MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\VitaKing\.gradle\caches\
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\f06a1ca5b12a7fbc0c8ca91b51501609\AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a72a3ce51306b126369fca7a636fc5a9\AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a72a3ce51306b126369fca7a636fc5a9\AndroidManifest.xml:20:5-44
-MERGED from [com.jackandphantom.android:androidlikebutton:1.2.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\e1e78732ae489575c7deaae13f75b30e\AndroidManifest.xml:7:5-9:41
-MERGED from [com.jackandphantom.android:androidlikebutton:1.2.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\e1e78732ae489575c7deaae13f75b30e\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\901ec15673212b650c159e4774dc6e56\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\901ec15673212b650c159e4774dc6e56\AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\7ec5f5552090a502c666069271482eb0\AndroidManifest.xml:20:5-44

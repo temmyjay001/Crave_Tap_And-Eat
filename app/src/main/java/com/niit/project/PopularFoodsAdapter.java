@@ -1,23 +1,16 @@
 package com.niit.project;
 
-import android.app.ActivityOptions;
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.drawable.BitmapDrawable;
-import android.graphics.drawable.Drawable;
-import android.os.Bundle;
-import android.util.Log;
-import android.util.Pair;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
-
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
-
 import java.util.List;
 
 public class PopularFoodsAdapter extends RecyclerView.Adapter<PopularFoodsAdapter.PopularFoodsViewHolder>{
@@ -73,29 +66,12 @@ public class PopularFoodsAdapter extends RecyclerView.Adapter<PopularFoodsAdapte
         @Override
         public void onClick(View view) {
             Intent intent = new Intent(context,orderActivity.class);
-            Bundle extras = new Bundle();
             if (view.getId()== imageView.getId()) {
 
                 Bitmap bitmap = ((BitmapDrawable)imageView.getDrawable()).getBitmap();
 
                 intent.putExtra("Bitmap", bitmap);
                 context.startActivity(intent);
-//                if(imageView.getDrawable().getConstantState().equals(imageView.getResources().getDrawable(R.drawable.barbecue).getConstantState())) {
-//                    int selectedImage = R.drawable.barbecue;
-//                    extras.putInt("image",selectedImage);
-//                    intent.putExtras(extras);
-//                    context.startActivity(intent);
-//                } else if(imageView.getDrawable().getConstantState().equals(imageView.getResources().getDrawable(R.drawable.karim).getConstantState())) {
-//                    int selectedImage = R.drawable.karim;
-//                    extras.putInt("image",selectedImage);
-//                    intent.putExtras(extras);
-//                    context.startActivity(intent);
-//                }else if(imageView.getDrawable().getConstantState().equals(imageView.getResources().getDrawable(R.drawable.ogi).getConstantState())) {
-//                    int selectedImage = R.drawable.ogi;
-//                    extras.putInt("image",selectedImage);
-//                    intent.putExtras(extras);
-//                    context.startActivity(intent);
-//                }
             }
         }
     }

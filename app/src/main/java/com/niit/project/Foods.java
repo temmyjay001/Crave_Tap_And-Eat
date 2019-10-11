@@ -55,12 +55,4 @@ public class Foods {
     public void setImage(int image) {
         this.image = image;
     }
-
-    public int getHeart() {
-        return heart;
-    }
-
-    public void setHeart(int heart) {
-        this.heart = heart;
-    }
 }

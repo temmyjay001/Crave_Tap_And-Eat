@@ -5,15 +5,10 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.view.View;
 import android.widget.TextView;
-
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
-
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
 import java.util.Calendar;
 
@@ -31,22 +26,11 @@ public class  MainActivity extends AppCompatActivity implements View.OnClickList
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.homepage);
-//        HorizontalScrollView horizontalScrollView = (HorizontalScrollView) findViewById(R.id.horizontalScrollView);
-//        horizontalScrollView.setHorizontalScrollBarEnabled(false);
-
-//        Calendar cal = Calendar.getInstance();
-//        int millisecond = cal.get(Calendar.MILLISECOND);
-//        int second = cal.get(Calendar.SECOND);
-//        int minute = cal.get(Calendar.MINUTE);
-//        //12 hour format
-//        int hour = cal.get(Calendar.HOUR);
-//        //24 hour format
-//        int hourofday = cal.get(Calendar.HOUR_OF_DAY);
 
 
         greeting1 = (TextView) findViewById(R.id.greeting);
         greeting2 = (TextView) findViewById(R.id.greeting2);
-        isTime("12:00:00","12:00:00","12:00:00","4:00:00");
+        isTime("00:00:00","12:00:00","12:00:00","4:00:00");
 
 
         popularFoodsList = new ArrayList<>();
@@ -94,7 +78,7 @@ public class  MainActivity extends AppCompatActivity implements View.OnClickList
                 "made with love",
                 4.5,
                 R.drawable.riceandchicken
-//                R.drawable.hearticonwhite
+
         ));
 
         foodsList.add(new Foods(
@@ -103,7 +87,7 @@ public class  MainActivity extends AppCompatActivity implements View.OnClickList
                 "made with love",
                 4.2,
                 R.drawable.grilledsteak
-//                R.drawable.hearticonwhite
+
         ));
 
         foodsList.add(new Foods(
@@ -112,7 +96,7 @@ public class  MainActivity extends AppCompatActivity implements View.OnClickList
                 "made with love",
                 4.6,
                 R.drawable.pizza
-//                R.drawable.hearticonwhite
+
         ));
 
         foodsList.add(new Foods(
@@ -121,7 +105,7 @@ public class  MainActivity extends AppCompatActivity implements View.OnClickList
                 "made with love",
                 4.9,
                 R.drawable.sandwich
-//                R.drawable.hearticonwhite
+
         ));
         foodsList.add(new Foods(
                 5,
@@ -129,7 +113,7 @@ public class  MainActivity extends AppCompatActivity implements View.OnClickList
                 "made with love",
                 4.8,
                 R.drawable.sushi
-//                R.drawable.hearticonwhite
+
         ));
 
         adapter = new FoodsAdapter(this, foodsList);
@@ -137,9 +121,6 @@ public class  MainActivity extends AppCompatActivity implements View.OnClickList
     }
 
     public void isTime(String valueToCheck, String morning, String afternoon, String evening) {
-        String CurrentT = "";
-
-
         final Handler someHandler = new Handler(getMainLooper());
         someHandler.postDelayed(new Runnable() {
             @Override

@@ -1,11 +1,10 @@
 package com.niit.project;
 
-import android.content.Intent;
+
 import android.graphics.Bitmap;
 import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
-import android.util.Log;
 import android.widget.ImageView;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -21,12 +20,6 @@ public class orderActivity extends AppCompatActivity {
 
         imageView = (ImageView) findViewById(R.id.imageView3);
 
-//        Intent intent = getIntent();
-//        Bundle extras = intent.getExtras();
-//        int image = extras.getInt("image");
-//        System.out.println(image);
-
-//          imageView.setImageResource(image);
         Bitmap bitmap = (Bitmap)this.getIntent().getParcelableExtra("Bitmap");
         Drawable d = new BitmapDrawable(getResources(), bitmap);
         System.out.println(d);
