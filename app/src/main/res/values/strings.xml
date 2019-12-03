@@ -1,4 +1,8 @@
 <resources>
-        <string name="app_name">Android Project</string>
-        <string name="good">Good</string>
+    <string name="app_name">Android Project</string>
+    <string name="good">Good</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>

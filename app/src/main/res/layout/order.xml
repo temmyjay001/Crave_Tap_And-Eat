@@ -7,7 +7,7 @@
 
     <RelativeLayout
         android:layout_width="wrap_content"
-        android:layout_height="match_parent">
+        android:layout_height="wrap_content">
 
         <RelativeLayout
             android:id="@+id/r1"
@@ -24,11 +24,13 @@
         </RelativeLayout>
 
         <androidx.cardview.widget.CardView
+            android:id="@+id/cardView"
             android:layout_width="226dp"
             android:layout_height="200dp"
             android:layout_below="@+id/r1"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="-100dp"
+            android:layout_marginBottom="10dp"
             app:cardBackgroundColor="@color/colorWhite"
             app:cardCornerRadius="10dp"
             app:cardElevation="8dp"
@@ -41,6 +43,50 @@
                 android:background="@drawable/barbecue" />
 
         </androidx.cardview.widget.CardView>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+    >
+        <TextView
+            android:id="@+id/orderText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="17dp"
+            android:fontFamily="@font/segoeuibold"
+            android:text="Roasted Chicken"
+            android:textColor="@color/colorBlack"
+            android:textSize="24sp"
+        />
+        <TextView
+            android:id="@+id/orderRatingText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/orderText"
+            android:layout_marginTop="-2dp"
+            android:layout_marginLeft="17dp"
+            android:fontFamily="@font/segoeui"
+            android:text="4.9"
+            android:textColor="@color/colorBlack"
+            android:textSize="20sp"
+        />
+
+        <RatingBar
+            android:id="@+id/ratingBar"
+            style="?android:attr/ratingBarStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/orderText"
+            android:layout_alignStart="@+id/orderRatingText"
+            android:layout_marginStart="30.5dp"
+            android:layout_marginLeft="30.5dp"
+            android:layout_marginTop="5dp"
+            android:numStars="5"
+            android:stepSize="1.0" />
+
+
 
     </RelativeLayout>
 </LinearLayout>

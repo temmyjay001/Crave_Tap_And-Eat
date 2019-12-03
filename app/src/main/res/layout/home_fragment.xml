@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#FFFFFF"
+    tools:ignore="VectorDrawableCompat"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="#FFFFFF"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme">
+
+        <ImageView
+            android:id="@+id/path"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="right"
+            android:layout_marginTop="31dp"
+            android:layout_marginRight="30dp"
+            android:contentDescription="path"
+            android:src="@drawable/path" />
+    </androidx.appcompat.widget.Toolbar>
+
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/toolbar"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="55dp"
+        android:cacheColorHint="@android:color/transparent"
+        android:fadingEdge="none"
+        android:fadingEdgeLength="0dp"
+        android:overScrollMode="never"
+        android:scrollingCache="false">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/greeting"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/mmrtextb"
+                android:text="@string/good"
+                android:textColor="@color/colorGreen"
+                android:textSize="40sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/greeting2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/greeting"
+                android:layout_marginTop="75dp"
+                android:fontFamily="@font/mmrtextb"
+                android:text="Morning"
+                android:textColor="@color/colorGreen"
+                android:textSize="40sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/popularf"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/greeting"
+                android:layout_alignLeft="@+id/greeting"
+                android:layout_marginTop="65dp"
+                android:fontFamily="@font/segoeuibold"
+                android:text="Popular Food"
+                android:textColor="@color/colorBlack"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/button1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/greeting"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="69dp"
+                android:layout_marginRight="20dp"
+                android:text="see more"
+                android:textColor="@color/colorGreen"
+                android:textSize="15sp"
+                android:textStyle="bold"
+
+                />
+
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rcv1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/popularf"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"
+                android:cacheColorHint="@android:color/transparent"
+                android:fadingEdge="none"
+                android:fadingEdgeLength="0dp"
+                android:overScrollMode="never"
+                android:scrollingCache="false">
+
+            </androidx.recyclerview.widget.RecyclerView>
+
+
+            <TextView
+                android:id="@+id/bestFood"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/rcv1"
+                android:layout_alignLeft="@+id/greeting"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/segoeuibold"
+                android:text="Best Food"
+                android:textColor="@color/colorBlack"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rcv2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/bestFood"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="30dp"></androidx.recyclerview.widget.RecyclerView>
+        </RelativeLayout>
+    </ScrollView>
+</LinearLayout>

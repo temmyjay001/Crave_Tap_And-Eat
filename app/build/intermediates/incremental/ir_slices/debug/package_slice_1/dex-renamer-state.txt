@@ -1,4 +1,4 @@
-#Fri Oct 11 03:32:07 WAT 2019
+#Mon Dec 02 00:05:29 WAT 2019
 base.0=C\:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
 path.0=classes.dex
 renamed.0=classes.dex

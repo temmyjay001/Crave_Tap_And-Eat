@@ -45,6 +45,19 @@
                 android:textSize="15sp"
                 android:textStyle="bold"
                 />
+            <!--<com.like.LikeButton-->
+                <!--app:like_drawable="@drawable/hearticon"-->
+                <!--app:unlike_drawable="@drawable/hearticonwhite"-->
+                <!--app:liked="false"-->
+                <!--app:icon_size="20dp"-->
+                <!--android:id="@+id/heart_button"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_gravity="right"-->
+                <!--android:layout_below="@id/imageView"-->
+                <!--android:layout_marginRight="20dp"-->
+
+                <!--/>-->
             <TextView
                 android:id="@+id/rating"
                 android:layout_width="wrap_content"

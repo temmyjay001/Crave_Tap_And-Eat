@@ -7,4 +7,9 @@
     <color name="colorGreen">#2F9E05</color>
     <color name="colorBlack">#000</color>
     <color name="colorWhite">#FFF</color>
+    <color name="navBack">#F6F6F6</color>
+    <color name="startgreen">#7FE984</color>
+    <color name="endgreen">#0EBB15</color>
+    <color name="graylight">#fafafa</color>
+    <color name="primaryDark">#292b3d</color>
 </resources>
