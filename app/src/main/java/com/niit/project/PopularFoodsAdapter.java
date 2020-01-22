@@ -42,7 +42,6 @@ public class PopularFoodsAdapter extends RecyclerView.Adapter<PopularFoodsAdapte
 
     @Override
     public int getItemCount() {
-
         return popularFoodsList.size();
     }
 
@@ -50,7 +49,6 @@ public class PopularFoodsAdapter extends RecyclerView.Adapter<PopularFoodsAdapte
 
         ImageView imageView;
         TextView textViewTitle, textViewRating;
-
 
         public PopularFoodsViewHolder(@NonNull View itemView) {
             super(itemView);

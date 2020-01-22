@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\7626048698c5117a2bdf82fbaa7e3142\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8943dcad7b6c14f50ba66af7f4499473\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8e305339403a098ee2f200e60bc34071\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

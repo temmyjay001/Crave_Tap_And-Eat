@@ -15,15 +15,20 @@
         android:minHeight="?attr/actionBarSize"
         android:theme="?attr/actionBarTheme">
 
-        <ImageView
-            android:id="@+id/path"
+        <ru.nikartm.support.ImageBadgeView
+            android:id="@+id/cartIcon"
             android:layout_width="40dp"
             android:layout_height="40dp"
-            android:layout_gravity="right"
             android:layout_marginTop="31dp"
             android:layout_marginRight="30dp"
-            android:contentDescription="path"
-            android:src="@drawable/path" />
+            android:layout_gravity="right"
+            app:ibv_badgeValue="9"
+            app:ibv_badgeTextSize="12sp"
+            app:ibv_fixedBadgeRadius="8dp"
+            app:ibv_badgeTextStyle="bold"
+            app:ibv_badgeTextColor="#ffffff"
+            app:ibv_badgeLimitValue="false"
+            android:src="@drawable/ic_shopping_cart_black_24dp" />
     </androidx.appcompat.widget.Toolbar>
 
 

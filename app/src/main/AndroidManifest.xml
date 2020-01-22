@@ -3,6 +3,10 @@
     package="com.niit.project">
 
     <dist:module dist:instant="true" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -11,7 +15,7 @@
         android:supportsRtl="true">
 
         <activity
-            android:name=".MainActivity"
+            android:name=".Login"
             android:theme="@style/AppTheme.FullScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -20,7 +24,15 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".MainActivity"
+            android:theme="@style/AppTheme.FullScreen">
+        </activity>
+        <activity
             android:name=".orderActivity"
+            android:theme="@style/AppTheme.FullScreen">
+        </activity>
+        <activity
+            android:name=".RegisterActivity"
             android:theme="@style/AppTheme.FullScreen">
         </activity>
     </application>

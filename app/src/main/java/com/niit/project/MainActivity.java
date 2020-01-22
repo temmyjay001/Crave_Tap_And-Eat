@@ -15,9 +15,6 @@ public class  MainActivity extends AppCompatActivity implements BottomNavigation
 
     BottomNavigationView bottomNavigationView;
 
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -38,9 +35,9 @@ public class  MainActivity extends AppCompatActivity implements BottomNavigation
                 fragment = new home_fragment();
                 break;
 
-            case R.id.navigation_favourites:
-                fragment = new favourite_fragment();
-                break;
+//            case R.id.navigation_favourites:
+//                fragment = new favourite_fragment();
+//                break;
 
             case R.id.navigation_profile:
                 fragment = new profile_fragment();

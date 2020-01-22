@@ -23,6 +23,7 @@ public class orderActivity extends AppCompatActivity {
         Bitmap bitmap = (Bitmap)this.getIntent().getParcelableExtra("Bitmap");
         Drawable d = new BitmapDrawable(getResources(), bitmap);
         System.out.println(d);
-        imageView.setBackgroundDrawable(d);
+        //imageView.setBackgroundDrawable(d);
+        imageView.setImageDrawable(d);
     }
 }

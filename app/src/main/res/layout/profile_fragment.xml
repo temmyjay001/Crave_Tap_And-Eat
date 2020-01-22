@@ -73,7 +73,7 @@
                         android:layout_height="wrap_content"
                         android:paddingTop="10dp"
                         android:text="125"
-                        android:textColor="@color/startgreen"
+                        android:textColor="@color/colorGreen"
                         android:textSize="20sp"
                         android:textStyle="bold" />
 
@@ -97,7 +97,7 @@
                         android:layout_height="wrap_content"
                         android:paddingTop="10dp"
                         android:text="17"
-                        android:textColor="@color/startgreen"
+                        android:textColor="@color/colorGreen"
                         android:textSize="20sp"
                         android:textStyle="bold" />
 
@@ -121,7 +121,7 @@
                         android:layout_height="wrap_content"
                         android:paddingTop="10dp"
                         android:text="36"
-                        android:textColor="@color/startgreen"
+                        android:textColor="@color/colorGreen"
                         android:textSize="20sp"
                         android:textStyle="bold" />
 
