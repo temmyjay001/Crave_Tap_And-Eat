@@ -205,20 +205,38 @@
                 android:text="Forgot your password?"
                 android:textSize="14sp" />
 
-            <Button
-                android:id="@+id/btFacebook"
-                android:layout_width="match_parent"
+            <!--<Button-->
+                <!--android:id="@+id/btFacebook"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_below="@+id/tvForgot"-->
+                <!--android:layout_alignLeft="@+id/cv"-->
+                <!--android:layout_alignRight="@+id/cv"-->
+                <!--android:layout_margin="10dp"-->
+                <!--android:background="@drawable/bt_uiborder"-->
+                <!--android:drawableLeft="@drawable/logofacebook"-->
+                <!--android:paddingLeft="20dp"-->
+                <!--android:paddingRight="20dp"-->
+                <!--android:text="Login with facebook"-->
+                <!--android:textColor="@color/colorPurple" />-->
+            <com.facebook.login.widget.LoginButton
+                android:id="@+id/login_button"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/tvForgot"
                 android:layout_alignLeft="@+id/cv"
                 android:layout_alignRight="@+id/cv"
-                android:layout_margin="10dp"
                 android:background="@drawable/bt_uiborder"
                 android:drawableLeft="@drawable/logofacebook"
+                android:layout_margin="10dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="30dp"
                 android:paddingLeft="20dp"
                 android:paddingRight="20dp"
                 android:text="Login with facebook"
-                android:textColor="@color/colorPurple" />
-        </RelativeLayout>
-    </ScrollView>
+                android:textColor="@color/colorPurple"
+            />
+    </RelativeLayout>
+</ScrollView>
 </RelativeLayout>
