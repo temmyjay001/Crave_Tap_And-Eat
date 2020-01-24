@@ -9,11 +9,12 @@ MERGED from [com.google.android.material:material:1.0.0] C:\Users\VitaKing\.grad
 MERGED from [com.alexzh:circleimageview:1.2.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a3c011c4afb1bd52feaef7c2b6bb32ae\AndroidManifest.xml:2:1-16:12
 MERGED from [com.github.nikartm:image-support:1.0.5] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\982f781d04425a0148f36f3b13545cc2\AndroidManifest.xml:2:1-11:12
 MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a08d9441ee216173687539770c800cd8\AndroidManifest.xml:2:1-19:12
+MERGED from [com.muddzdev:styleabletoast:2.2.3] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\b881ce6f5d2754de80ae2a20214a425a\AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.android:facebook-android-sdk:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\d4602b83b3dc6ff41bded70b4967fcf5\AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-login:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\afc70cc94bce4978b6b27f4f23eed320\AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-share:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a8b083aeaf3c1102e2f0abb3a06acf1d\AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-common:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\ae09dc891b31dc650c42cea8662ee6f3\AndroidManifest.xml:21:1-52:12
-MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\8ab3ae300bb0ddeca6578a4ec8ea69c6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\75386207fb935090da9116e834a18110\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\d3aa88ccf8cfa1c0a27dff6f21a88af8\AndroidManifest.xml:15:1-25:12
 MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\4aff38797c005d5d90f69b88bf845483\AndroidManifest.xml:17:1-42:12
 MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\4a8edf6e9da81a436fdb68de376b45cd\AndroidManifest.xml:17:1-22:12
@@ -27,8 +28,6 @@ MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\VitaKing\.gradle\
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\698dca13ea9e1a528525e81766036483\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\021f4372fba3a9841d96509eee1ed89c\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\7e4dcb911893bff5ffddbd49b0d6c0e4\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\0eb1e3efa8d57dfe17130e4f5f717b50\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\e45f35cd8e66e6dcd44d556b70a2b520\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.browser:browser:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a292858fec754ddc536c3f6f0c7bdb3f\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\fd238115083679f842d31c28e87423f9\AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.android:facebook-places:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\bc4e7babc608b1a6706661accdb87f68\AndroidManifest.xml:21:1-31:12
@@ -36,29 +35,34 @@ MERGED from [com.facebook.android:facebook-applinks:5.15.0] C:\Users\VitaKing\.g
 MERGED from [com.facebook.android:facebook-messenger:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\2a0bd95a16d1aa23ad2895c91c46fa2b\AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-core:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\39c7fa1aa604edc00386c2d2f555b360\AndroidManifest.xml:21:1-53:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\f6cf032bf978a70e483a0b8b25516722\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\fb51dacef11d8f8aa20d0a9d2a7288c1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.media:media:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a9c5f84f9d94e44633853662574a91a1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.transition:transition:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\e37429fa2d0b30faa6881760a5d53884\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\1a633691458209c65e3c3168198a9d04\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\6b0776ed92965695f6533880c1bec34f\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\ff8fe3f5555d664c2539286469e2d3f3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\91bcc3e945e8c57fdad13372a4f12071\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\e1031f6fb5437b43409812ba5a1438c3\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\b441c98e4bbad4eea4ab1c1fa6cb3e0d\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\0e4bc2f1fd8e97b947f61d8486bd44ac\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\4e6c846fef76286ce74e5f719ab9a5dd\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\5155d44087c1295c5ffb860c0495f57a\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\e57086ea3bfe63223813a6897b242a28\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\aef5a75fb7a417fbfd3a849954542be2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\4eb280b1edc60239fee6448bd539a86c\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.0.1] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\8e305339403a098ee2f200e60bc34071\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a374e40bd1bbcbc52f4cb55af200955f\AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\7fcbdf00cf11976d817fa4816dc6c181\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\d7f2642547653605d0bbfb04e78b86db\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\1a633691458209c65e3c3168198a9d04\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\91bcc3e945e8c57fdad13372a4f12071\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\e1031f6fb5437b43409812ba5a1438c3\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\ae8463b0d4e5772d2dbd5c81e928264d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\35d785aa5b16c32d9be54d122b4402b4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\56d75b9ace6db0d3bccb14cb572d5b2e\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\55443c354391833f8dc1e4ea956697ef\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\4eb280b1edc60239fee6448bd539a86c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\7fcbdf00cf11976d817fa4816dc6c181\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a01474cf0e5759c661f9b786a5103e8b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\eef249971ccd0d71f860ff9c0903e55f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a8e135a2686155e7c7aad83e91ef939c\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\7455b7662f6e301de470c00a81464794\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\2d90d915579c56ed6c9a1339fc2ef947\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\e7e24d416ab505bcd5b390f84b40dc9f\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\dc1dbb9e009a6920e3a1e5df7940a886\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\06b31f64a87452663022004576bd678f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\4a830aa4ff92a0f0093776e70211cdf5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\902d72fb3a13f8b1152231818f698567\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.installreferrer:installreferrer:1.1] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\75f97567c48c7db7e4533cb93670f433\AndroidManifest.xml:2:1-9:12
 INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:1-46:12
 INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:1-46:12
@@ -133,14 +137,14 @@ MERGED from [com.facebook.android:facebook-messenger:5.15.0] C:\Users\VitaKing\.
 MERGED from [com.facebook.android:facebook-messenger:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\2a0bd95a16d1aa23ad2895c91c46fa2b\AndroidManifest.xml:28:5-29:19
 MERGED from [com.facebook.android:facebook-core:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\39c7fa1aa604edc00386c2d2f555b360\AndroidManifest.xml:28:5-51:19
 MERGED from [com.facebook.android:facebook-core:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\39c7fa1aa604edc00386c2d2f555b360\AndroidManifest.xml:28:5-51:19
-MERGED from [androidx.core:core:1.0.1] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\8e305339403a098ee2f200e60bc34071\AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.0.1] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\8e305339403a098ee2f200e60bc34071\AndroidManifest.xml:22:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a374e40bd1bbcbc52f4cb55af200955f\AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a374e40bd1bbcbc52f4cb55af200955f\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a8e135a2686155e7c7aad83e91ef939c\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a8e135a2686155e7c7aad83e91ef939c\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\7455b7662f6e301de470c00a81464794\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\7455b7662f6e301de470c00a81464794\AndroidManifest.xml:24:5-25:19
 MERGED from [com.android.installreferrer:installreferrer:1.1] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\75f97567c48c7db7e4533cb93670f433\AndroidManifest.xml:7:5-20
 MERGED from [com.android.installreferrer:installreferrer:1.1] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\75f97567c48c7db7e4533cb93670f433\AndroidManifest.xml:7:5-20
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.0.1] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\8e305339403a098ee2f200e60bc34071\AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a8e135a2686155e7c7aad83e91ef939c\AndroidManifest.xml:24:18-86
 	android:supportsRtl
 		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:15:9-35
 	android:label
@@ -219,6 +223,8 @@ MERGED from [com.github.nikartm:image-support:1.0.5] C:\Users\VitaKing\.gradle\c
 MERGED from [com.github.nikartm:image-support:1.0.5] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\982f781d04425a0148f36f3b13545cc2\AndroidManifest.xml:7:5-9:41
 MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a08d9441ee216173687539770c800cd8\AndroidManifest.xml:7:5-9:41
 MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a08d9441ee216173687539770c800cd8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.muddzdev:styleabletoast:2.2.3] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\b881ce6f5d2754de80ae2a20214a425a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.muddzdev:styleabletoast:2.2.3] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\b881ce6f5d2754de80ae2a20214a425a\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.android:facebook-android-sdk:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\d4602b83b3dc6ff41bded70b4967fcf5\AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-android-sdk:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\d4602b83b3dc6ff41bded70b4967fcf5\AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-login:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\afc70cc94bce4978b6b27f4f23eed320\AndroidManifest.xml:24:5-26:41
@@ -227,8 +233,8 @@ MERGED from [com.facebook.android:facebook-share:5.15.0] C:\Users\VitaKing\.grad
 MERGED from [com.facebook.android:facebook-share:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a8b083aeaf3c1102e2f0abb3a06acf1d\AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-common:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\ae09dc891b31dc650c42cea8662ee6f3\AndroidManifest.xml:25:5-27:41
 MERGED from [com.facebook.android:facebook-common:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\ae09dc891b31dc650c42cea8662ee6f3\AndroidManifest.xml:25:5-27:41
-MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\8ab3ae300bb0ddeca6578a4ec8ea69c6\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\8ab3ae300bb0ddeca6578a4ec8ea69c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\75386207fb935090da9116e834a18110\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\75386207fb935090da9116e834a18110\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\d3aa88ccf8cfa1c0a27dff6f21a88af8\AndroidManifest.xml:18:5-20:41
 MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\d3aa88ccf8cfa1c0a27dff6f21a88af8\AndroidManifest.xml:18:5-20:41
 MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\4aff38797c005d5d90f69b88bf845483\AndroidManifest.xml:21:5-44
@@ -255,10 +261,6 @@ MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\VitaKing\.gradle\caches\
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\021f4372fba3a9841d96509eee1ed89c\AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\7e4dcb911893bff5ffddbd49b0d6c0e4\AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\7e4dcb911893bff5ffddbd49b0d6c0e4\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\0eb1e3efa8d57dfe17130e4f5f717b50\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\0eb1e3efa8d57dfe17130e4f5f717b50\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\e45f35cd8e66e6dcd44d556b70a2b520\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\e45f35cd8e66e6dcd44d556b70a2b520\AndroidManifest.xml:20:5-44
 MERGED from [androidx.browser:browser:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a292858fec754ddc536c3f6f0c7bdb3f\AndroidManifest.xml:20:5-44
 MERGED from [androidx.browser:browser:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a292858fec754ddc536c3f6f0c7bdb3f\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\fd238115083679f842d31c28e87423f9\AndroidManifest.xml:20:5-44
@@ -273,14 +275,20 @@ MERGED from [com.facebook.android:facebook-core:5.15.0] C:\Users\VitaKing\.gradl
 MERGED from [com.facebook.android:facebook-core:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\39c7fa1aa604edc00386c2d2f555b360\AndroidManifest.xml:24:5-26:41
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\f6cf032bf978a70e483a0b8b25516722\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\f6cf032bf978a70e483a0b8b25516722\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\fb51dacef11d8f8aa20d0a9d2a7288c1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\fb51dacef11d8f8aa20d0a9d2a7288c1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.media:media:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a9c5f84f9d94e44633853662574a91a1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.media:media:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a9c5f84f9d94e44633853662574a91a1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.transition:transition:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\e37429fa2d0b30faa6881760a5d53884\AndroidManifest.xml:20:5-44
 MERGED from [androidx.transition:transition:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\e37429fa2d0b30faa6881760a5d53884\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\1a633691458209c65e3c3168198a9d04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\1a633691458209c65e3c3168198a9d04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\6b0776ed92965695f6533880c1bec34f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\6b0776ed92965695f6533880c1bec34f\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\ff8fe3f5555d664c2539286469e2d3f3\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\ff8fe3f5555d664c2539286469e2d3f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\91bcc3e945e8c57fdad13372a4f12071\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\91bcc3e945e8c57fdad13372a4f12071\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\e1031f6fb5437b43409812ba5a1438c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\e1031f6fb5437b43409812ba5a1438c3\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\b441c98e4bbad4eea4ab1c1fa6cb3e0d\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\b441c98e4bbad4eea4ab1c1fa6cb3e0d\AndroidManifest.xml:20:5-44
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\0e4bc2f1fd8e97b947f61d8486bd44ac\AndroidManifest.xml:20:5-44
@@ -293,32 +301,36 @@ MERGED from [androidx.customview:customview:1.0.0] C:\Users\VitaKing\.gradle\cac
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\e57086ea3bfe63223813a6897b242a28\AndroidManifest.xml:20:5-44
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\aef5a75fb7a417fbfd3a849954542be2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\aef5a75fb7a417fbfd3a849954542be2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\4eb280b1edc60239fee6448bd539a86c\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\4eb280b1edc60239fee6448bd539a86c\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.1] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\8e305339403a098ee2f200e60bc34071\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.1] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\8e305339403a098ee2f200e60bc34071\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a374e40bd1bbcbc52f4cb55af200955f\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a374e40bd1bbcbc52f4cb55af200955f\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\7fcbdf00cf11976d817fa4816dc6c181\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\7fcbdf00cf11976d817fa4816dc6c181\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\d7f2642547653605d0bbfb04e78b86db\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\d7f2642547653605d0bbfb04e78b86db\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\1a633691458209c65e3c3168198a9d04\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\1a633691458209c65e3c3168198a9d04\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\91bcc3e945e8c57fdad13372a4f12071\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\91bcc3e945e8c57fdad13372a4f12071\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\e1031f6fb5437b43409812ba5a1438c3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\e1031f6fb5437b43409812ba5a1438c3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\ae8463b0d4e5772d2dbd5c81e928264d\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\ae8463b0d4e5772d2dbd5c81e928264d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\35d785aa5b16c32d9be54d122b4402b4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\35d785aa5b16c32d9be54d122b4402b4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\56d75b9ace6db0d3bccb14cb572d5b2e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\56d75b9ace6db0d3bccb14cb572d5b2e\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\55443c354391833f8dc1e4ea956697ef\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\55443c354391833f8dc1e4ea956697ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\4eb280b1edc60239fee6448bd539a86c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\4eb280b1edc60239fee6448bd539a86c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\7fcbdf00cf11976d817fa4816dc6c181\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\7fcbdf00cf11976d817fa4816dc6c181\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a01474cf0e5759c661f9b786a5103e8b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a01474cf0e5759c661f9b786a5103e8b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\eef249971ccd0d71f860ff9c0903e55f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\eef249971ccd0d71f860ff9c0903e55f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a8e135a2686155e7c7aad83e91ef939c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a8e135a2686155e7c7aad83e91ef939c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\7455b7662f6e301de470c00a81464794\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\7455b7662f6e301de470c00a81464794\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\2d90d915579c56ed6c9a1339fc2ef947\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\2d90d915579c56ed6c9a1339fc2ef947\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\e7e24d416ab505bcd5b390f84b40dc9f\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\e7e24d416ab505bcd5b390f84b40dc9f\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\dc1dbb9e009a6920e3a1e5df7940a886\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\dc1dbb9e009a6920e3a1e5df7940a886\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\06b31f64a87452663022004576bd678f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\06b31f64a87452663022004576bd678f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\4a830aa4ff92a0f0093776e70211cdf5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\4a830aa4ff92a0f0093776e70211cdf5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\902d72fb3a13f8b1152231818f698567\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\902d72fb3a13f8b1152231818f698567\AndroidManifest.xml:20:5-22:41
 INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
