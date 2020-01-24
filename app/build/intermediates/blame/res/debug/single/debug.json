@@ -32,8 +32,8 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\9f98b66b98724c20c2da76cc6b6af17f\\res\\drawable\\heart_off.png"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_navheart.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-mdpi\\navheart.png"
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-mdpi-v4\\com_facebook_tooltip_black_bottomnub.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_abc_control_background_material.xml.flat",
@@ -52,12 +52,12 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
-        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
-    },
-    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_navigation_empty_icon.xml.flat",
@@ -100,24 +100,32 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8e305339403a098ee2f200e60bc34071\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_internal_bg.xml.flat",
-        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable\\abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_grilledsteak.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-mdpi\\grilledsteak.png"
-    },
-    {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
-        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-hdpi-v4\\com_facebook_tooltip_blue_bottomnub.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_grilledsteak.png.flat",
+        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-mdpi\\grilledsteak.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_messenger_bubble_small_blue.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\drawable-xhdpi-v4\\messenger_bubble_small_blue.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hearticon.png.flat",
@@ -140,16 +148,20 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_indicator_material.xml.flat",
-        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
-        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_messenger_button_white_bg_selector.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\drawable\\messenger_button_white_bg_selector.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -168,10 +180,6 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_orderback.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxhdpi\\orderback.png"
-    },
-    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
     },
@@ -180,12 +188,12 @@
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\layout\\register_activity.xml"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8fbd1813b451c987bb9605ab6a9f3264\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
-    },
-    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8fbd1813b451c987bb9605ab6a9f3264\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -224,12 +232,12 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logofacebook.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-ldpi\\logofacebook.png"
-    },
-    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_light.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_messenger_bubble_large_blue.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\drawable-xxhdpi-v4\\messenger_bubble_large_blue.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_light.xml.flat",
@@ -252,12 +260,12 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
-        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-mdpi-v4\\com_facebook_tooltip_blue_topnub.png"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logofacebook.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-mdpi\\logofacebook.png"
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -304,6 +312,10 @@
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\layout\\profile_fragment.xml"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_xout.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thumb_off.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\9f98b66b98724c20c2da76cc6b6af17f\\res\\drawable\\thumb_off.png"
     },
@@ -326,6 +338,10 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_com_facebook_button_like_icon_selected.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\ae09dc891b31dc650c42cea8662ee6f3\\res\\drawable-xxhdpi-v4\\com_facebook_button_like_icon_selected.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_in.xml.flat",
@@ -354,6 +370,10 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_pizza.png.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxxhdpi\\pizza.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_messenger_bubble_small_white.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\drawable-hdpi-v4\\messenger_bubble_small_white.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_sushi.png.flat",
@@ -448,6 +468,10 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\a08d9441ee216173687539770c800cd8\\res\\drawable\\background.xml"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8fbd1813b451c987bb9605ab6a9f3264\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
@@ -516,6 +540,10 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\drawable-xxxhdpi-v4\\design_ic_visibility.png"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_close.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\ae09dc891b31dc650c42cea8662ee6f3\\res\\drawable-mdpi-v4\\com_facebook_close.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8fbd1813b451c987bb9605ab6a9f3264\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
     },
@@ -524,16 +552,12 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_circlet.xml.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxhdpi\\circlet.xml"
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-mdpi-v4\\com_facebook_tooltip_black_background.9.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_text_input_password_icon.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\layout\\design_text_input_password_icon.xml"
-    },
-    {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_contact.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxhdpi\\contact.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -544,6 +568,10 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\anim\\abc_tooltip_enter.xml"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_messenger_button_send_white_small.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sushi.png.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xhdpi\\sushi.png"
     },
@@ -552,8 +580,16 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8fbd1813b451c987bb9605ab6a9f3264\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_profile_picture_blank_portrait.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-mdpi-v4\\com_facebook_profile_picture_blank_portrait.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_activity.xml.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\layout\\login_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-hdpi-v4\\com_facebook_tooltip_blue_background.9.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
@@ -580,8 +616,16 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_messenger_bubble_large_white.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\drawable-xxhdpi-v4\\messenger_bubble_large_white.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8e305339403a098ee2f200e60bc34071\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_button_icon.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\ae09dc891b31dc650c42cea8662ee6f3\\res\\drawable\\com_facebook_button_icon.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_tabs_colored_ripple_color.xml.flat",
@@ -608,6 +652,10 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_com_facebook_button_send_icon_white.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\a8b083aeaf3c1102e2f0abb3a06acf1d\\res\\drawable-xxhdpi-v4\\com_facebook_button_send_icon_white.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
@@ -620,8 +668,8 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logofacebook.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxxhdpi\\logofacebook.png"
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_close.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\ae09dc891b31dc650c42cea8662ee6f3\\res\\drawable-xhdpi-v4\\com_facebook_close.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hearticonwhite.png.flat",
@@ -630,6 +678,10 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_messenger_bubble_large_white.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\drawable-xhdpi-v4\\messenger_bubble_large_white.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ogi.png.flat",
@@ -660,16 +712,16 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_button_send_icon_white.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\a8b083aeaf3c1102e2f0abb3a06acf1d\\res\\drawable-mdpi-v4\\com_facebook_button_send_icon_white.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8fbd1813b451c987bb9605ab6a9f3264\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
-    },
-    {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_contact.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxxhdpi\\contact.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pizza.png.flat",
@@ -688,12 +740,12 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_tabs_icon_color_selector.xml.flat",
-        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\color\\mtrl_tabs_icon_color_selector.xml"
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_button_send_background.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\a8b083aeaf3c1102e2f0abb3a06acf1d\\res\\drawable\\com_facebook_button_send_background.xml"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_orderback.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-mdpi\\orderback.png"
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_tabs_icon_color_selector.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\color\\mtrl_tabs_icon_color_selector.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
@@ -732,6 +784,14 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-mdpi-v4\\com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_topnub.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_design_tint_password_toggle.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\color-v23\\design_tint_password_toggle.xml"
     },
@@ -742,10 +802,6 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_edittext.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\color-v23\\abc_tint_edittext.xml"
-    },
-    {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\anim_uptodown.xml.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\anim\\uptodown.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -760,16 +816,16 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\color\\mtrl_btn_text_color_selector.xml"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_messenger_button_send_blue_small.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bt_uisquare.xml.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxhdpi\\bt_uisquare.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -784,10 +840,6 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8e305339403a098ee2f200e60bc34071\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_navheart.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-ldpi\\navheart.png"
-    },
-    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
@@ -798,10 +850,6 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hearticonwhite.png.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-hdpi\\hearticonwhite.png"
-    },
-    {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_home.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxxhdpi\\home.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_karim.png.flat",
@@ -820,12 +868,12 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\color-v23\\abc_tint_spinner.xml"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_light.xml.flat",
-        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable\\tooltip_frame_light.xml"
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_messenger_button_send_round_shadow.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\drawable-xhdpi-v4\\messenger_button_send_round_shadow.png"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_header_register.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-hdpi\\header_register.png"
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_light.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable\\tooltip_frame_light.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -860,16 +908,20 @@
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-mdpi\\nav.png"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
-        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
-    },
-    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_foods_list.xml.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\layout\\foods_list.xml"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_background.9.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -882,10 +934,6 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_navheart.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xhdpi\\navheart.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
@@ -904,12 +952,20 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-mdpi-v4\\com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_hearticon.png.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-ldpi\\hearticon.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_messenger_bubble_small_blue.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\drawable-hdpi-v4\\messenger_bubble_small_blue.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_transformation_sheet_expand_spec.xml.flat",
@@ -922,10 +978,6 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_navheart.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxhdpi\\navheart.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -948,12 +1000,12 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_messenger_bubble_small_blue.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\drawable-xxhdpi-v4\\messenger_bubble_small_blue.png"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_header_register.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-ldpi\\header_register.png"
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -1012,6 +1064,14 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\layout\\design_navigation_item_header.xml"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_button_send_icon_blue.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\a8b083aeaf3c1102e2f0abb3a06acf1d\\res\\drawable-hdpi-v4\\com_facebook_button_send_icon_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-mdpi-v4\\com_facebook_tooltip_blue_background.9.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_sandwich.png.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-ldpi\\sandwich.png"
     },
@@ -1060,6 +1120,10 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_messenger_bubble_small_white.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\drawable-xxhdpi-v4\\messenger_bubble_small_white.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
@@ -1076,12 +1140,20 @@
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xhdpi\\grilledsteak.png"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_home.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-ldpi\\home.png"
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-hdpi-v4\\com_facebook_tooltip_black_background.9.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_pizza.png.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-ldpi\\pizza.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_messenger_button_send_blue_large.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_button_like_icon_selected.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\ae09dc891b31dc650c42cea8662ee6f3\\res\\drawable-xhdpi-v4\\com_facebook_button_like_icon_selected.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_tooltip.xml.flat",
@@ -1096,16 +1168,16 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8e305339403a098ee2f200e60bc34071\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_orderback.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-ldpi\\orderback.png"
-    },
-    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_borderless_material.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_messenger_button_send_round_shadow.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\drawable-xxhdpi-v4\\messenger_button_send_round_shadow.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
@@ -1124,16 +1196,24 @@
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxxhdpi\\path.png"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_button_send_icon_white.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\a8b083aeaf3c1102e2f0abb3a06acf1d\\res\\drawable-xhdpi-v4\\com_facebook_button_send_icon_white.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_messenger_button_send_blue_round.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\layout\\messenger_button_send_blue_round.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar_include.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logofacebook.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xhdpi\\logofacebook.png"
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_browser_actions_context_menu_row.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\a292858fec754ddc536c3f6f0c7bdb3f\\res\\layout\\browser_actions_context_menu_row.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_light.xml.flat",
@@ -1160,6 +1240,10 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ogi.png.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-mdpi\\ogi.png"
     },
@@ -1180,16 +1264,16 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_messenger_button_send_round_shadow.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\drawable-mdpi-v4\\messenger_button_send_round_shadow.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_dark.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_header.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxhdpi\\header.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -1204,16 +1288,16 @@
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxxhdpi\\hearticon.png"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bt_uiborder.xml.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxhdpi\\bt_uiborder.xml"
-    },
-    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pizza.png.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xhdpi\\pizza.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_messenger_bubble_small_white.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\drawable-mdpi-v4\\messenger_bubble_small_white.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_bottom.xml.flat",
@@ -1264,6 +1348,10 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_messenger_bubble_large_white.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\drawable-hdpi-v4\\messenger_bubble_large_white.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8e305339403a098ee2f200e60bc34071\\res\\layout\\notification_template_part_time.xml"
     },
@@ -1284,12 +1372,16 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-mdpi-v4\\com_facebook_tooltip_black_topnub.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8e305339403a098ee2f200e60bc34071\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_orderback.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxxhdpi\\orderback.png"
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_topnub.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -1340,10 +1432,6 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\color\\mtrl_chip_text_color.xml"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_orderback.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xhdpi\\orderback.png"
-    },
-    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_text_material.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
@@ -1372,16 +1460,12 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\layout\\mtrl_layout_snackbar_include.xml"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_button_background.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\ae09dc891b31dc650c42cea8662ee6f3\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_contact.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xhdpi\\contact.png"
-    },
-    {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_header.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-hdpi\\header.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -1400,12 +1484,12 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_orderback.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-hdpi\\orderback.png"
-    },
-    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_messenger_button_send_round_shadow.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\drawable-hdpi-v4\\messenger_button_send_round_shadow.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -1420,6 +1504,10 @@
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xhdpi\\hearticonwhite.png"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_button_send_icon_blue.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\a8b083aeaf3c1102e2f0abb3a06acf1d\\res\\drawable-mdpi-v4\\com_facebook_button_send_icon_blue.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
@@ -1428,12 +1516,24 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\color\\mtrl_tabs_icon_color_selector_colored.xml"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_messenger_button_blue_bg_round.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email_black_24dp.xml.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable\\ic_email_black_24dp.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_messenger_bubble_large_blue.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\drawable-hdpi-v4\\messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_messenger_button_send_white_large.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\layout\\messenger_button_send_white_large.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1456,8 +1556,16 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\layout\\abc_screen_content_include.xml"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_tooltip_black_xout.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-hdpi-v4\\com_facebook_tooltip_black_xout.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_facebook_smart_device_dialog_fragment.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\ae09dc891b31dc650c42cea8662ee6f3\\res\\layout\\com_facebook_smart_device_dialog_fragment.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_dark.xml.flat",
@@ -1476,10 +1584,6 @@
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-hdpi\\hearticon.png"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_header_register.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-mdpi\\header_register.png"
-    },
-    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
@@ -1494,6 +1598,10 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_out.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_button_send_icon_white.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\a8b083aeaf3c1102e2f0abb3a06acf1d\\res\\drawable-hdpi-v4\\com_facebook_button_send_icon_white.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -1536,6 +1644,10 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_messenger_button_white_bg_round.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
     },
@@ -1554,10 +1666,6 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_riceandchicken.png.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxxhdpi\\riceandchicken.png"
-    },
-    {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_contact.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-hdpi\\contact.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
@@ -1582,6 +1690,10 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_fab_background.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_messenger_bubble_small_white.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\drawable-xhdpi-v4\\messenger_bubble_small_white.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_icon.xml.flat",
@@ -1620,10 +1732,6 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8fbd1813b451c987bb9605ab6a9f3264\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_header.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxxhdpi\\header.png"
-    },
-    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
@@ -1652,8 +1760,24 @@
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxhdpi\\path.png"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_facebook_device_auth_dialog_fragment.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\ae09dc891b31dc650c42cea8662ee6f3\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\a08d9441ee216173687539770c800cd8\\res\\layout\\layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-hdpi-v4\\com_facebook_tooltip_black_topnub.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
@@ -1666,6 +1790,10 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_password_eye.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_tooltip_black_xout.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-mdpi-v4\\com_facebook_tooltip_black_xout.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -1696,20 +1824,20 @@
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable\\splash_screen.jpg"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logofacebook.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxhdpi\\logofacebook.png"
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_profile_picture_blank_square.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-mdpi-v4\\com_facebook_profile_picture_blank_square.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mtrl_chip_checked_circle.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\drawable\\ic_mtrl_chip_checked_circle.xml"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
-        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\layout\\design_navigation_item_separator.xml"
-    },
-    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_riceandchicken.png.flat",
@@ -1730,10 +1858,6 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8e305339403a098ee2f200e60bc34071\\res\\drawable\\notification_bg_low.xml"
-    },
-    {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_header.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-mdpi\\header.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_design_ic_visibility.png.flat",
@@ -1768,6 +1892,10 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\color\\design_error.xml"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\color_com_facebook_send_button_text_color.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\a8b083aeaf3c1102e2f0abb3a06acf1d\\res\\color\\com_facebook_send_button_text_color.xml"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\layout\\abc_action_menu_layout.xml"
     },
@@ -1780,12 +1908,16 @@
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_header.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-ldpi\\header.png"
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_messenger_bubble_large_blue.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\drawable-mdpi-v4\\messenger_bubble_large_blue.png"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_contact.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-ldpi\\contact.png"
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_button_send_icon_blue.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\a8b083aeaf3c1102e2f0abb3a06acf1d\\res\\drawable-xhdpi-v4\\com_facebook_button_send_icon_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_button_like_icon_selected.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\ae09dc891b31dc650c42cea8662ee6f3\\res\\drawable-hdpi-v4\\com_facebook_button_like_icon_selected.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_mtrl_layout_snackbar.xml.flat",
@@ -1808,10 +1940,6 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-mdpi\\home.png"
-    },
-    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_track_material.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable\\abc_seekbar_track_material.xml"
     },
@@ -1832,8 +1960,16 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8fbd1813b451c987bb9605ab6a9f3264\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_messenger_bubble_large_white.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\drawable-mdpi-v4\\messenger_bubble_large_white.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-hdpi-v4\\com_facebook_tooltip_black_bottomnub.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -1864,6 +2000,10 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8fbd1813b451c987bb9605ab6a9f3264\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_browser_actions_context_menu_page.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\a292858fec754ddc536c3f6f0c7bdb3f\\res\\layout\\browser_actions_context_menu_page.xml"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_exit.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\anim\\abc_tooltip_exit.xml"
     },
@@ -1874,10 +2014,6 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sushi.png.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-mdpi\\sushi.png"
-    },
-    {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xhdpi\\home.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_ripple_color.xml.flat",
@@ -1896,6 +2032,10 @@
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xhdpi\\path.png"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_messenger_button_blue_bg_selector.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_enter.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\anim\\abc_popup_enter.xml"
     },
@@ -1912,8 +2052,8 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8e305339403a098ee2f200e60bc34071\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_header_register.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxhdpi\\header_register.png"
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_button_like_icon_selected.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\ae09dc891b31dc650c42cea8662ee6f3\\res\\drawable-mdpi-v4\\com_facebook_button_like_icon_selected.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark.xml.flat",
@@ -1948,6 +2088,10 @@
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-mdpi\\barbecue.png"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_auth_dialog_cancel_background.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\ae09dc891b31dc650c42cea8662ee6f3\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
@@ -1962,6 +2106,10 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_riceandchicken.png.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxhdpi\\riceandchicken.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_button_like_background.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\ae09dc891b31dc650c42cea8662ee6f3\\res\\drawable\\com_facebook_button_like_background.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -1998,6 +2146,14 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_messenger_button_send_white_round.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_background.9.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -2068,12 +2224,12 @@
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
-        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8fbd1813b451c987bb9605ab6a9f3264\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
-    },
-    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\a9c5f84f9d94e44633853662574a91a1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8fbd1813b451c987bb9605ab6a9f3264\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
@@ -2120,10 +2276,6 @@
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_navheart.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxxhdpi\\navheart.png"
-    },
-    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_hearticonwhite.png.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxxhdpi\\hearticonwhite.png"
     },
@@ -2134,6 +2286,10 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nav.png.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-hdpi\\nav.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_close.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\ae09dc891b31dc650c42cea8662ee6f3\\res\\drawable-hdpi-v4\\com_facebook_close.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
@@ -2168,20 +2324,24 @@
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xhdpi\\sandwich.png"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
-        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_header_register.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxxhdpi\\header_register.png"
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\color_com_facebook_button_text_color.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\ae09dc891b31dc650c42cea8662ee6f3\\res\\color\\com_facebook_button_text_color.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8fbd1813b451c987bb9605ab6a9f3264\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_auth_dialog_background.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\ae09dc891b31dc650c42cea8662ee6f3\\res\\drawable\\com_facebook_auth_dialog_background.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -2248,16 +2408,16 @@
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_favicon_blue.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\ae09dc891b31dc650c42cea8662ee6f3\\res\\drawable\\com_facebook_favicon_blue.xml"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_background_color.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\color\\mtrl_chip_background_color.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
-    },
-    {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_contact.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-mdpi\\contact.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\font_segoeuibold.ttf.flat",
@@ -2316,8 +2476,16 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8e305339403a098ee2f200e60bc34071\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_facebook_activity_layout.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\ae09dc891b31dc650c42cea8662ee6f3\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_messenger_bubble_large_blue.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\drawable-xhdpi-v4\\messenger_bubble_large_blue.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
@@ -2340,6 +2508,10 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-hdpi-v4\\com_facebook_tooltip_blue_xout.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8fbd1813b451c987bb9605ab6a9f3264\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
@@ -2352,8 +2524,8 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxhdpi\\home.png"
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_auth_dialog_header_background.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\ae09dc891b31dc650c42cea8662ee6f3\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
@@ -2374,6 +2546,10 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\a9c5f84f9d94e44633853662574a91a1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-hdpi-v4\\com_facebook_tooltip_blue_topnub.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -2412,8 +2588,16 @@
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxhdpi\\karim.png"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_facebook_login_fragment.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\ae09dc891b31dc650c42cea8662ee6f3\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_barbecue.png.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-hdpi\\barbecue.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_send_button_icon.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\a8b083aeaf3c1102e2f0abb3a06acf1d\\res\\drawable\\com_facebook_send_button_icon.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -2436,6 +2620,10 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_tooltip_black_xout.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_xout.png"
+    },
+    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_riceandchicken.png.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-hdpi\\riceandchicken.png"
     },
@@ -2450,6 +2638,10 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_facebook_tooltip_bubble.xml.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\afc70cc94bce4978b6b27f4f23eed320\\res\\layout\\com_facebook_tooltip_bubble.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ogi.png.flat",
@@ -2524,10 +2716,6 @@
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-mdpi\\pizza.png"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-hdpi\\home.png"
-    },
-    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
@@ -2556,12 +2744,12 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_header_register.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xhdpi\\header_register.png"
-    },
-    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_sushi.png.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxhdpi\\sushi.png"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_messenger_bubble_small_blue.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\2a0bd95a16d1aa23ad2895c91c46fa2b\\res\\drawable-mdpi-v4\\messenger_bubble_small_blue.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_grilledsteak.png.flat",
@@ -2600,12 +2788,16 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8e305339403a098ee2f200e60bc34071\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bt_order.xml.flat",
+        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xhdpi\\bt_order.xml"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8fbd1813b451c987bb9605ab6a9f3264\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8e305339403a098ee2f200e60bc34071\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_tick_mark_material.xml.flat",
@@ -2632,10 +2824,6 @@
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\b98c919babf5b313bfdb041c07ea75dc\\res\\interpolator-v21\\mtrl_linear_out_slow_in.xml"
     },
     {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_navheart.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-hdpi\\navheart.png"
-    },
-    {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_bottom.xml.flat",
         "source": "C:\\Users\\VitaKing\\.gradle\\caches\\transforms-2\\files-2.1\\8ab3ae300bb0ddeca6578a4ec8ea69c6\\res\\anim\\abc_slide_out_bottom.xml"
     },
@@ -2650,14 +2838,6 @@
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_hearticon.png.flat",
         "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xxhdpi\\hearticon.png"
-    },
-    {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_header.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-xhdpi\\header.png"
-    },
-    {
-        "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logofacebook.png.flat",
-        "source": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\src\\main\\res\\drawable-hdpi\\logofacebook.png"
     },
     {
         "merged": "C:\\Users\\VitaKing\\AndroidStudioProjects\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",

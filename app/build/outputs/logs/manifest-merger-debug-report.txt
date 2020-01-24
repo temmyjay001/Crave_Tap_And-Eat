@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:1-41:12
-INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:1-41:12
-INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:1-41:12
-INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:1-41:12
+ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:1-46:12
+INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:1-46:12
+INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:1-46:12
+INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:1-46:12
 MERGED from [com.github.jd-alexander:LikeButton:0.2.3] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\9f98b66b98724c20c2da76cc6b6af17f\AndroidManifest.xml:2:1-14:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\b98c919babf5b313bfdb041c07ea75dc\AndroidManifest.xml:17:1-24:12
 MERGED from [com.alexzh:circleimageview:1.2.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a3c011c4afb1bd52feaef7c2b6bb32ae\AndroidManifest.xml:2:1-16:12
@@ -60,22 +60,22 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\VitaKing\.gra
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\e7e24d416ab505bcd5b390f84b40dc9f\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\dc1dbb9e009a6920e3a1e5df7940a886\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.installreferrer:installreferrer:1.1] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\75f97567c48c7db7e4533cb93670f433\AndroidManifest.xml:2:1-9:12
-INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:1-41:12
-INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:1-41:12
-INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:1-46:12
+INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:1-46:12
+INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:1-46:12
 	package
 		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:3:5-31
 		INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:1-41:12
+		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:1-46:12
 		INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml
 	xmlns:dist
 		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:2:5-61
 	android:versionCode
 		INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:1-41:12
+		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:1-46:12
 		INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:11-69
@@ -94,7 +94,7 @@ ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\A
 	android:name
 		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:7:22-77
 application
-ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:10:5-38:19
+ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:10:5-43:19
 MERGED from [com.github.jd-alexander:LikeButton:0.2.3] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\9f98b66b98724c20c2da76cc6b6af17f\AndroidManifest.xml:11:5-12:19
 MERGED from [com.github.jd-alexander:LikeButton:0.2.3] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\9f98b66b98724c20c2da76cc6b6af17f\AndroidManifest.xml:11:5-12:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\b98c919babf5b313bfdb041c07ea75dc\AndroidManifest.xml:22:5-20
@@ -153,40 +153,58 @@ MERGED from [com.android.installreferrer:installreferrer:1.1] C:\Users\VitaKing\
 		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:11:9-35
 	android:theme
 		ADDED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\a08d9441ee216173687539770c800cd8\AndroidManifest.xml:16:9-40
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:17:9-107
+	android:value
+		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:17:66-105
+	android:name
+		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:17:20-65
+activity#com.facebook.FacebookActivity
+ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:18:9-21:48
+MERGED from [com.facebook.android:facebook-common:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\ae09dc891b31dc650c42cea8662ee6f3\AndroidManifest.xml:30:9-33:66
+MERGED from [com.facebook.android:facebook-common:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\ae09dc891b31dc650c42cea8662ee6f3\AndroidManifest.xml:30:9-33:66
+	android:label
+		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:21:13-45
+	android:configChanges
+		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:19:13-114
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\ae09dc891b31dc650c42cea8662ee6f3\AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:18:19-63
 activity#com.niit.project.Login
-ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:17:9-25:20
+ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:22:9-30:20
 	android:theme
-		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:19:13-55
+		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:24:13-55
 	android:name
-		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:18:13-34
+		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:23:13-34
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:20:13-24:29
+ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:25:13-29:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:21:17-69
+ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:26:17-69
 	android:name
-		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:21:25-66
+		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:26:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:23:17-77
+ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:28:17-77
 	android:name
-		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:23:27-74
+		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:28:27-74
 activity#com.niit.project.MainActivity
-ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:26:9-29:20
+ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:31:9-34:20
 	android:theme
-		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:28:13-55
+		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:33:13-55
 	android:name
-		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:27:13-41
+		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:32:13-41
 activity#com.niit.project.orderActivity
-ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:30:9-33:20
+ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:35:9-38:20
 	android:theme
-		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:32:13-55
+		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:37:13-55
 	android:name
-		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:31:13-42
+		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:36:13-42
 activity#com.niit.project.RegisterActivity
-ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:34:9-37:20
+ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:39:9-42:20
 	android:theme
-		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:36:13-55
+		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:41:13-55
 	android:name
-		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:35:13-45
+		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:40:13-45
 uses-sdk
 INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml
@@ -311,14 +329,6 @@ INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\mai
 		INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml
-activity#com.facebook.FacebookActivity
-ADDED from [com.facebook.android:facebook-common:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\ae09dc891b31dc650c42cea8662ee6f3\AndroidManifest.xml:30:9-33:66
-	android:configChanges
-		ADDED from [com.facebook.android:facebook-common:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\ae09dc891b31dc650c42cea8662ee6f3\AndroidManifest.xml:32:13-96
-	android:theme
-		ADDED from [com.facebook.android:facebook-common:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\ae09dc891b31dc650c42cea8662ee6f3\AndroidManifest.xml:33:13-63
-	android:name
-		ADDED from [com.facebook.android:facebook-common:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\ae09dc891b31dc650c42cea8662ee6f3\AndroidManifest.xml:31:13-57
 activity#com.facebook.CustomTabMainActivity
 ADDED from [com.facebook.android:facebook-common:5.15.0] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\ae09dc891b31dc650c42cea8662ee6f3\AndroidManifest.xml:34:9-71
 	android:name
@@ -434,6 +444,6 @@ ADDED from [com.android.installreferrer:installreferrer:1.1] C:\Users\VitaKing\.
 	android:name
 		ADDED from [com.android.installreferrer:installreferrer:1.1] C:\Users\VitaKing\.gradle\caches\transforms-2\files-2.1\75f97567c48c7db7e4533cb93670f433\AndroidManifest.xml:5:22-107
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:1-41:12 reason: com.android.installreferrer has a targetSdkVersion < 4
+IMPLIED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:1-46:12 reason: com.android.installreferrer has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:1-41:12 reason: com.android.installreferrer has a targetSdkVersion < 4
+IMPLIED from C:\Users\VitaKing\AndroidStudioProjects\AndroidProject\app\src\main\AndroidManifest.xml:1:1-46:12 reason: com.android.installreferrer has a targetSdkVersion < 4

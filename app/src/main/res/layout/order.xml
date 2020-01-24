@@ -40,8 +40,7 @@
                 android:id="@+id/imageView3"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:background="@drawable/barbecue"
-                />
+                android:background="@drawable/barbecue" />
 
         </androidx.cardview.widget.CardView>
     </RelativeLayout>
@@ -57,7 +56,7 @@
             android:layout_marginTop="20dp"
             android:layout_marginLeft="17dp"
             android:fontFamily="@font/segoeuibold"
-            android:text="Roasted Chicken"
+            android:text="@string/order_item"
             android:textColor="@color/colorBlack"
             android:textSize="24sp"
         />
@@ -101,6 +100,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/foodDescription"
+            android:text="Camerarius historias ducunt ad amor.Cum equiso ire, omnes animalises demitto magnum, pius finises.Whisk one quarter cup of rice in eight and a half teaspoons of buttermilk."
             android:padding="20dp"
             />
 
